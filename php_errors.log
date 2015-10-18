@@ -1,0 +1,14 @@
+[18-Oct-2015 09:07:21 UTC] PHP Fatal error:  Class 'Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle' not found in /home/ubuntu/workspace/sfBasket/app/AppKernel.php on line 27
+[18-Oct-2015 09:07:21 UTC] PHP Stack trace:
+[18-Oct-2015 09:07:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/sfBasket/web/app_dev.php:0
+[18-Oct-2015 09:07:21 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/sfBasket/web/app_dev.php:29
+[18-Oct-2015 09:07:21 UTC] PHP   3. Symfony\Component\HttpKernel\Kernel->boot() /home/ubuntu/workspace/sfBasket/app/bootstrap.php.cache:2442
+[18-Oct-2015 09:07:21 UTC] PHP   4. Symfony\Component\HttpKernel\Kernel->initializeBundles() /home/ubuntu/workspace/sfBasket/app/bootstrap.php.cache:2410
+[18-Oct-2015 09:07:21 UTC] PHP   5. AppKernel->registerBundles() /home/ubuntu/workspace/sfBasket/app/bootstrap.php.cache:2581
+[18-Oct-2015 09:08:36 UTC] PHP Fatal error:  Class 'Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle' not found in /home/ubuntu/workspace/sfBasket/app/AppKernel.php on line 27
+[18-Oct-2015 09:08:36 UTC] PHP Stack trace:
+[18-Oct-2015 09:08:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/sfBasket/web/app_dev.php:0
+[18-Oct-2015 09:08:36 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/sfBasket/web/app_dev.php:29
+[18-Oct-2015 09:08:36 UTC] PHP   3. Symfony\Component\HttpKernel\Kernel->boot() /home/ubuntu/workspace/sfBasket/app/bootstrap.php.cache:2442
+[18-Oct-2015 09:08:36 UTC] PHP   4. Symfony\Component\HttpKernel\Kernel->initializeBundles() /home/ubuntu/workspace/sfBasket/app/bootstrap.php.cache:2410
+[18-Oct-2015 09:08:36 UTC] PHP   5. AppKernel->registerBundles() /home/ubuntu/workspace/sfBasket/app/bootstrap.php.cache:2581
